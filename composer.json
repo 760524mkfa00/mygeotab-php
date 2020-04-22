@@ -1,5 +1,5 @@
 {
-    "name": "geotab/mygeotab-php",
+    "name": "760524mkfa00/mygeotab-php",
     "type": "library",
     "description": "Unofficial PHP client for the MyGeotab API",
     "keywords": ["geotab", "mygeotab", "api", "sdk"],
